@@ -3,6 +3,34 @@ QScintilla - a Port to Qt v5 and Qt v6 of Scintilla
 
 ---
 
+**docs written by *US***
+
+# Request on the request of requesting me a pull request
+
+Don't send pull request to me. Instead, send them to the [Riverbank computer (see below)](https://riverbankcomputing.com/) for pull request. I'm here for pulling and forking them only.
+
+(However sending pull requests to us, Bright Software Foundation, are very welcome. GitHub is the only official source code repo-lib currently. Don't send pull request to GitLab, SRC, A-Li-Yun because they're not our official one.
+
+# What is a fork?
+
+A fork is being a copycat without paying a buck.
+
+## Is it safe? It is good? It is suitable?
+
+It depends.
+
+## Is it legal?
+
+As long as the forked one is open-source with a license.
+
+## Why BSF do this?
+
+Because we think it's fun.
+
+---
+
+**docs written by *them***
+
 ## Introduction
 
 [QScintilla](https://riverbankcomputing.com/software/qscintilla/) is a port to Qt of the [Scintilla](https://www.scintilla.org) editing component.
