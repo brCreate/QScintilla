@@ -1,0 +1,17 @@
+# Specify the build system.
+[build-system]
+requires = ["sip >=6.8, <7", "PyQt-builder >=1.6, <2"]
+build-backend = "sipbuild.api"
+
+[project]
+name = "PyQt6-QScintilla"
+version = "2.14.2.dev2402181630"
+description = "Python bindings for the QScintilla programmers editor widget"
+readme = "README.md"
+urls.homepage = "https://www.riverbankcomputing.com/software/qscintilla/"
+dependencies = ["PyQt6 (>=6.0.3)"]
+license = {text = "GPL v3"}
+
+[[project.authors]]
+name = "Riverbank Computing Limited"
+email = "info@riverbankcomputing.com"
